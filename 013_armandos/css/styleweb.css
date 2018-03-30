@@ -1,0 +1,179 @@
+.welcome{
+   font-family: 'Lato', sans-serif;
+   font-size: 40px;
+   text-align: center;
+   color: #fff;
+   font-weight: bold;
+   position: relative;
+   transform: translate(-210px, 270%);
+ }
+
+.taq{
+    font-family: 'Lato', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    position: relative;
+    transform: translate(-246px, -140%);
+  }
+
+.armn{
+    font-family: 'Arimo', sans-serif;
+    font-size: 250px;
+    text-align: center;
+    color: #fff;
+    font-weight: bolder;
+    position: relative;
+    line-height: 50%;
+    transform: translateX(2%);
+}
+
+.ndos{
+    font-family: 'Arimo', sans-serif;
+    font-size: 250px;
+    text-align: center;
+    color: #fff;
+    font-weight: bolder;
+    position: relative;
+    line-height: 0%
+  }
+
+.menu{
+    font-family: 'Lato', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    position: relative;
+    transform: translateX(-288px);
+
+}
+
+.menu2{
+    font-family: 'Lato', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    position: relative;
+    transform: translateX(-288px);
+
+}
+
+.aguasmenu{
+    transform: translate(400px, -464px);
+
+}
+
+.about{
+    font-family: 'Lato', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    position: relative;
+    transform: translate(-80px, -154%);
+
+}
+
+.location{
+    font-family: 'Lato', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    position: relative;
+    transform: translate(160px, -311%);
+}
+
+.ourstory{
+   font-family: 'Arimo', sans-serif;
+   font-size: 100px;
+   text-align: center;
+   color: #fff;
+   font-weight: bold;
+   position: relative;
+   transform: translate(-210px, 90%);
+ }
+
+.ourstorymenu{
+   font-family: 'Arimo', sans-serif;
+   font-size: 120px;
+   text-align: center;
+   color: #fff;
+   font-weight: bold;
+   position: relative;
+   transform: translate(-210px, 108%);
+ }
+
+ .webegan{
+    font-family: 'Lato', sans-serif;
+    font-size: 25px;
+    text-align: left;
+    color: #fff;
+    font-weight: bold;
+    position: relative;
+    transform: translate( 880px, -26.5%);
+}
+
+.thegame{
+    font-family: 'Lato', sans-serif;
+    font-size: 25px;
+    text-align: left;
+    color: #fff;
+    font-weight: bold;
+    position: relative;
+    transform: translate( 880px, 120%);
+   }
+
+.carne{
+    font-family: 'Lato', sans-serif;
+    font-size: 25px;
+    text-align: left;
+    color: #fff;
+    font-weight: bold;
+    position: relative;
+    transform: translate( 700px, 100%);
+    }
+
+.tacostitle{
+    font-family: 'Lato', sans-serif;
+    font-size: 30px;
+    text-align: left;
+    color: #fff;
+    font-weight: bold;
+    position: relative;
+    transform: translate( 700px, -10%);
+    }
+
+.aguas{
+    font-family: 'Lato', sans-serif;
+    font-size: 30px;
+    text-align: left;
+    color: #fff;
+    font-weight: bold;
+    position: relative;
+    transform: translate( 700px, -10%);
+    }
+
+.atarmandos{
+    font-family: 'Lato', sans-serif;
+    font-size: 25px;
+    text-align: left;
+    color: #fff;
+    font-weight: bold;
+    position: relative;
+    transform: translate( 1450px, -325px);
+     }
+
+body{
+  background: #ffffff url("https://www.plated.com/uploads/culinary/recipe_image/file/33539/hero_f0wlaGbQwOCTUjznJDzg_Carne_Asada_Sopes_with_Avocado-Corn_Salsa_and_Refried_Black_Beans___0017___HERO.jpg") no-repeat right top;
+  background-attachment: fixed;
+  background-size: 140%, 140%;
+  position: relative;
+}
+
+#nav{
+  transform: translate(0px, 100px);
+}
